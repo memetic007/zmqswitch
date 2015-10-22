@@ -1,4 +1,4 @@
-#zmqswith
+#zmqswitch
 ZeroMQ Message Switch for AI Deer 
 
 A python program that requires python zeromq bindings:
